@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/mikah13/ggs">
+  <a href="https://github.com/mikah13/ggs/blob/main/docs/screenshot.png?raw=true">
     <img src="./docs/banner.png" alt="Banner" width="400" height="190">
   </a>
 
