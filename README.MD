@@ -5,7 +5,6 @@
 <br />
 <div align="center">
   <a href="https://github.com/mikah13/ggs/blob/main/docs/screenshot.png?raw=true">
-    <img src="./docs/banner.png" alt="Banner" width="400" height="190">
   </a>
 
   <h3 align="center">go-get-stock</h3>
@@ -21,7 +20,7 @@
 
 GGS (Go Stock Viewer) is a command-line tool written in Go for viewing stock prices and managing a watchlist of stocks. It allows you to quickly retrieve stock prices and display them in a tabular format. You can also manage your watchlist by adding or removing tickers as needed.
 
-<img src=""C:\Users\Harideep\Downloads\screenshot (1).png"" alt="Example" width="422" height="290">
+
 
 ## Installation
 
